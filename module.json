@@ -3,7 +3,7 @@
   "name": "accounting-custom-report-builder-api",
   "display_name": "Accounting Custom Report Builder API",
   "description": "HTTP API for governed custom reports.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\CustomReportBuilderApi\\CustomReportBuilderApiServiceProvider",
   "requires": {
